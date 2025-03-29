@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\bin\Debug\net8.0\String05_BIS.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\bin\Debug\net8.0\String05_BIS.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\bin\Debug\net8.0\String05_BIS.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\bin\Debug\net8.0\String05_BIS.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\bin\Debug\net8.0\String05_BIS.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\refint\String05_BIS.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\String05_BIS.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05_BIS\obj\Debug\net8.0\ref\String05_BIS.dll

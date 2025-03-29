@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\bin\Debug\net8.0\MiPrimerModulo.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\bin\Debug\net8.0\MiPrimerModulo.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\bin\Debug\net8.0\MiPrimerModulo.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\bin\Debug\net8.0\MiPrimerModulo.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\bin\Debug\net8.0\MiPrimerModulo.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\refint\MiPrimerModulo.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\MiPrimerModulo.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimerModulo\obj\Debug\net8.0\ref\MiPrimerModulo.dll

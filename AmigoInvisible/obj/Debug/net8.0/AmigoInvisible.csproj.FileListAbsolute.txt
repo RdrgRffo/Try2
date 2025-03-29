@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\bin\Debug\net8.0\AmigoInvisible.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\bin\Debug\net8.0\AmigoInvisible.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\bin\Debug\net8.0\AmigoInvisible.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\bin\Debug\net8.0\AmigoInvisible.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\bin\Debug\net8.0\AmigoInvisible.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\refint\AmigoInvisible.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\AmigoInvisible.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\AmigoInvisible\obj\Debug\net8.0\ref\AmigoInvisible.dll

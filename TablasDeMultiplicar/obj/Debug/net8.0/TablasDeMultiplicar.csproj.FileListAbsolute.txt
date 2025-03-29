@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\bin\Debug\net8.0\TablasDeMultiplicar.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\bin\Debug\net8.0\TablasDeMultiplicar.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\bin\Debug\net8.0\TablasDeMultiplicar.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\bin\Debug\net8.0\TablasDeMultiplicar.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\bin\Debug\net8.0\TablasDeMultiplicar.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\refint\TablasDeMultiplicar.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\TablasDeMultiplicar.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\TablasDeMultiplicar\obj\Debug\net8.0\ref\TablasDeMultiplicar.dll

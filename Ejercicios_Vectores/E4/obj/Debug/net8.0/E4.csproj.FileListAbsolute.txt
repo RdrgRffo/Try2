@@ -1,0 +1,14 @@
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.AssemblyInfoInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.AssemblyInfo.cs
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.csproj.CoreCompileInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\bin\Debug\net8.0\E4.exe
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\bin\Debug\net8.0\E4.deps.json
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\bin\Debug\net8.0\E4.runtimeconfig.json
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\bin\Debug\net8.0\E4.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\bin\Debug\net8.0\E4.pdb
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\refint\E4.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.pdb
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\E4.genruntimeconfig.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E4\obj\Debug\net8.0\ref\E4.dll

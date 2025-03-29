@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\bin\Debug\net8.0\String05.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\bin\Debug\net8.0\String05.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\bin\Debug\net8.0\String05.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\bin\Debug\net8.0\String05.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\bin\Debug\net8.0\String05.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\refint\String05.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\String05.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Strings\String05\obj\Debug\net8.0\ref\String05.dll

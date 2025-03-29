@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\bin\Debug\net8.0\For10.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\bin\Debug\net8.0\For10.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\bin\Debug\net8.0\For10.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\bin\Debug\net8.0\For10.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\bin\Debug\net8.0\For10.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\refint\For10.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\For10.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\BuclesFor\For10\obj\Debug\net8.0\ref\For10.dll

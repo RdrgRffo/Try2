@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\bin\Debug\net8.0\Algoritmo-Burbuja.exe
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\bin\Debug\net8.0\Algoritmo-Burbuja.deps.json
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\bin\Debug\net8.0\Algoritmo-Burbuja.runtimeconfig.json
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\bin\Debug\net8.0\Algoritmo-Burbuja.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\bin\Debug\net8.0\Algoritmo-Burbuja.pdb
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\refint\Algoritmo-Burbuja.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.pdb
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\Algoritmo-Burbuja.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Algoritmo-Burbuja\obj\Debug\net8.0\ref\Algoritmo-Burbuja.dll

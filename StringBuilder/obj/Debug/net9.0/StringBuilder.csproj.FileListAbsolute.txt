@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\bin\Debug\net9.0\StringBuilder.exe
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\bin\Debug\net9.0\StringBuilder.deps.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\bin\Debug\net9.0\StringBuilder.runtimeconfig.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\bin\Debug\net9.0\StringBuilder.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\bin\Debug\net9.0\StringBuilder.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\refint\StringBuilder.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\StringBuilder.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\StringBuilder\obj\Debug\net9.0\ref\StringBuilder.dll

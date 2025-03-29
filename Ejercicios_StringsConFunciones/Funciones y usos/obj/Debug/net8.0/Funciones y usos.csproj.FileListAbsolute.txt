@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\bin\Debug\net8.0\Funciones y usos.exe
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\bin\Debug\net8.0\Funciones y usos.deps.json
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\bin\Debug\net8.0\Funciones y usos.runtimeconfig.json
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\bin\Debug\net8.0\Funciones y usos.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\bin\Debug\net8.0\Funciones y usos.pdb
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\refint\Funciones y usos.dll
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.pdb
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\Funciones y usos.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Ejercicios_PR1\Ejercicios_StringsConFunciones\Funciones y usos\obj\Debug\net8.0\ref\Funciones y usos.dll

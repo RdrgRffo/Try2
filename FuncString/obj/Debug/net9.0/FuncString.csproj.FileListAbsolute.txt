@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\bin\Debug\net9.0\FuncString.exe
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\bin\Debug\net9.0\FuncString.deps.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\bin\Debug\net9.0\FuncString.runtimeconfig.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\bin\Debug\net9.0\FuncString.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\bin\Debug\net9.0\FuncString.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\refint\FuncString.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\FuncString.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\FuncString\obj\Debug\net9.0\ref\FuncString.dll

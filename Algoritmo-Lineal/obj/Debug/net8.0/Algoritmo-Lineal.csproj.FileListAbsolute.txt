@@ -1,0 +1,14 @@
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.AssemblyInfoInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.AssemblyInfo.cs
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.csproj.CoreCompileInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\bin\Debug\net8.0\Algoritmo-Lineal.exe
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\bin\Debug\net8.0\Algoritmo-Lineal.deps.json
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\bin\Debug\net8.0\Algoritmo-Lineal.runtimeconfig.json
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\bin\Debug\net8.0\Algoritmo-Lineal.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\bin\Debug\net8.0\Algoritmo-Lineal.pdb
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\refint\Algoritmo-Lineal.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.pdb
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\Algoritmo-Lineal.genruntimeconfig.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\Algoritmo-Lineal\obj\Debug\net8.0\ref\Algoritmo-Lineal.dll

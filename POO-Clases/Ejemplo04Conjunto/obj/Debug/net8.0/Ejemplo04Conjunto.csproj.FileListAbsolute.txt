@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\bin\Debug\net8.0\Ejemplo04Conjunto.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\bin\Debug\net8.0\Ejemplo04Conjunto.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\bin\Debug\net8.0\Ejemplo04Conjunto.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\bin\Debug\net8.0\Ejemplo04Conjunto.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\bin\Debug\net8.0\Ejemplo04Conjunto.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\refint\Ejemplo04Conjunto.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\Ejemplo04Conjunto.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre2\Proyectos\Objetos\Ejemplo04Conjunto\obj\Debug\net8.0\ref\Ejemplo04Conjunto.dll

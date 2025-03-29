@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\bin\Debug\net8.0\EjercicioTotales.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\bin\Debug\net8.0\EjercicioTotales.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\bin\Debug\net8.0\EjercicioTotales.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\bin\Debug\net8.0\EjercicioTotales.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\bin\Debug\net8.0\EjercicioTotales.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\refint\EjercicioTotales.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\EjercicioTotales.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\Arrays\Bidimensionales\EjercicioTotales\obj\Debug\net8.0\ref\EjercicioTotales.dll

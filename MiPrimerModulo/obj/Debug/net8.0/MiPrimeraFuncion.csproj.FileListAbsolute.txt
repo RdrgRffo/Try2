@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\bin\Debug\net8.0\MiPrimeraFuncion.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\bin\Debug\net8.0\MiPrimeraFuncion.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\bin\Debug\net8.0\MiPrimeraFuncion.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\bin\Debug\net8.0\MiPrimeraFuncion.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\bin\Debug\net8.0\MiPrimeraFuncion.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\refint\MiPrimeraFuncion.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\MiPrimeraFuncion.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\MiPrimeraFuncion\obj\Debug\net8.0\ref\MiPrimeraFuncion.dll

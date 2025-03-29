@@ -1,0 +1,14 @@
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.AssemblyInfoInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.AssemblyInfo.cs
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.csproj.CoreCompileInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\bin\Debug\net8.0\E2.exe
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\bin\Debug\net8.0\E2.deps.json
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\bin\Debug\net8.0\E2.runtimeconfig.json
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\bin\Debug\net8.0\E2.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\bin\Debug\net8.0\E2.pdb
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\refint\E2.dll
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.pdb
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\E2.genruntimeconfig.cache
+C:\Users\1dawa\Desktop\Ejercicios Programación\Strings-Vectores\E2\obj\Debug\net8.0\ref\E2.dll

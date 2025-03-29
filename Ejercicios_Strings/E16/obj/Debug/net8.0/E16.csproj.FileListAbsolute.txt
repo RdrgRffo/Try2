@@ -1,0 +1,4 @@
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E16\obj\Debug\net8.0\E16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E16\obj\Debug\net8.0\E16.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E16\obj\Debug\net8.0\E16.AssemblyInfo.cs
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E16\obj\Debug\net8.0\E16.csproj.CoreCompileInputs.cache

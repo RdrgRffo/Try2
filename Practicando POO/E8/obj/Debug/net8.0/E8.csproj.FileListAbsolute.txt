@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\bin\Debug\net8.0\E8.exe
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\bin\Debug\net8.0\E8.deps.json
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\bin\Debug\net8.0\E8.runtimeconfig.json
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\bin\Debug\net8.0\E8.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\bin\Debug\net8.0\E8.pdb
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\refint\E8.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.pdb
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\E8.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\NUEVOS\E8\obj\Debug\net8.0\ref\E8.dll

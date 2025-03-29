@@ -1,0 +1,14 @@
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\bin\Debug\net8.0\E1.exe
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\bin\Debug\net8.0\E1.deps.json
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\bin\Debug\net8.0\E1.runtimeconfig.json
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\bin\Debug\net8.0\E1.dll
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\bin\Debug\net8.0\E1.pdb
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.AssemblyInfo.cs
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.dll
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\refint\E1.dll
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.pdb
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\E1.genruntimeconfig.cache
+C:\Users\rodri\Documents\Ejercicios_De_Programación\Ejercicios_Strings\E1\obj\Debug\net8.0\ref\E1.dll

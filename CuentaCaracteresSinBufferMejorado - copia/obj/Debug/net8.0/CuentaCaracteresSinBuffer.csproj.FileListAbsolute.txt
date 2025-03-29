@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\bin\Debug\net8.0\CuentaCaracteresSinBuffer.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\bin\Debug\net8.0\CuentaCaracteresSinBuffer.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\bin\Debug\net8.0\CuentaCaracteresSinBuffer.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\bin\Debug\net8.0\CuentaCaracteresSinBuffer.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\bin\Debug\net8.0\CuentaCaracteresSinBuffer.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\refint\CuentaCaracteresSinBuffer.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\CuentaCaracteresSinBuffer.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Publico\Trimestre1\Proyectos\CuentaCaracteresSinBuffer\obj\Debug\net8.0\ref\CuentaCaracteresSinBuffer.dll

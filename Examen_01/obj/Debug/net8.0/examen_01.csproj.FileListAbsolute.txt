@@ -1,0 +1,14 @@
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.AssemblyInfoInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.AssemblyInfo.cs
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.csproj.CoreCompileInputs.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\bin\Debug\net8.0\examen_01.exe
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\bin\Debug\net8.0\examen_01.deps.json
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\bin\Debug\net8.0\examen_01.runtimeconfig.json
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\bin\Debug\net8.0\examen_01.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\bin\Debug\net8.0\examen_01.pdb
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\refint\examen_01.dll
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.pdb
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\examen_01.genruntimeconfig.cache
+C:\Users\1dawa\Desktop\Ejercicios_PR1\examen_01\obj\Debug\net8.0\ref\examen_01.dll

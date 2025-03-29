@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\bin\Debug\net8.0\HERENCIA.exe
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\bin\Debug\net8.0\HERENCIA.deps.json
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\bin\Debug\net8.0\HERENCIA.runtimeconfig.json
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\bin\Debug\net8.0\HERENCIA.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\bin\Debug\net8.0\HERENCIA.pdb
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\refint\HERENCIA.dll
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.pdb
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\HERENCIA.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Ejercicios_Prog\HERENCIA\obj\Debug\net8.0\ref\HERENCIA.dll

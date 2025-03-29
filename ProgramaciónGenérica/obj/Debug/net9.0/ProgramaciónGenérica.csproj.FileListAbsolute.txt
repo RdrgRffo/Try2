@@ -1,0 +1,14 @@
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\bin\Debug\net9.0\ProgramaciónGenérica.exe
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\bin\Debug\net9.0\ProgramaciónGenérica.deps.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\bin\Debug\net9.0\ProgramaciónGenérica.runtimeconfig.json
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\bin\Debug\net9.0\ProgramaciónGenérica.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\bin\Debug\net9.0\ProgramaciónGenérica.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\refint\ProgramaciónGenérica.dll
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.pdb
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ProgramaciónGenérica.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Programación\Publico\Programas\ProgramaciónGenérica\obj\Debug\net9.0\ref\ProgramaciónGenérica.dll

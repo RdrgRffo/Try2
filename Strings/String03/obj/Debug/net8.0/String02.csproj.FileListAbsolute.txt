@@ -1,0 +1,14 @@
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\bin\Debug\net8.0\String02.exe
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\bin\Debug\net8.0\String02.deps.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\bin\Debug\net8.0\String02.runtimeconfig.json
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\bin\Debug\net8.0\String02.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\bin\Debug\net8.0\String02.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.AssemblyInfoInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.AssemblyInfo.cs
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.csproj.CoreCompileInputs.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\refint\String02.dll
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.pdb
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\String02.genruntimeconfig.cache
+C:\Users\ftoblare\Documents\nube_ftoblare\Curso_2024_25\PRO\Trimestre1\Proyectos\Strings\String02\obj\Debug\net8.0\ref\String02.dll
